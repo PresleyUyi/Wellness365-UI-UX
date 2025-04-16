@@ -1,2 +1,2 @@
 # Wellness365-UI-UX
-This wireframe is a user interface design that I designed for my team project.
+This wireframe is a user interface design that I designed for my team project. Wellness365 is a health and wellness web application focused on improving users’ sleep habits. The system allows users to input personal data such as age, weight, and height, which is stored for personalised insights. Users can track their sleep patterns, set sleep goals, and receive notifications to help stay on track. Wellness365 also provides helpful tips to improve sleep quality, promoting a healthier daily routine.
